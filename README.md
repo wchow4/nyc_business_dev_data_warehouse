@@ -1,7 +1,7 @@
 # NYC Business Development
-- author(s): Eric Chow & Jiahong Yu
-- date created: 9/28/2022
-- class: CIS 9440
+- Authors: Eric Chow & Jiahong Yu
+- Date created: 9/28/2022
+- Class: CIS 9440
  
 Project Objective: Follow the Kimball Lifecycle to design and develop a public, cloud-based Data Warehouse with a functioning BI Applications
  
@@ -76,8 +76,6 @@ This project's wireframe designs:
 https://github.com/wchow4/nyc_business_dev_data_warehouse/blob/main/CIS9440_Fall22_Wireframe_Dashboard_1.JPG
 https://github.com/wchow4/nyc_business_dev_data_warehouse/blob/main/CIS9440_Fall22_Wireframe_Dashboard_2.JPG
  
-Picture of final Dashboard:
-
 
 This project's final dashboard:
 https://github.com/wchow4/nyc_business_dev_data_warehouse/blob/main/CIS9440_Fall22_Dashboard_1_Screenshot.JPG
