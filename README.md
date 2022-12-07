@@ -73,6 +73,7 @@ BI Application Wireframe design:
 
 
 This project's wireframe designs:
+![Alt text](~CIS9440_Fall22_Wireframe_Dashboard_1.JPG)
 https://github.com/wchow4/nyc_business_dev_data_warehouse/blob/main/CIS9440_Fall22_Wireframe_Dashboard_1.JPG
 https://github.com/wchow4/nyc_business_dev_data_warehouse/blob/main/CIS9440_Fall22_Wireframe_Dashboard_2.JPG
  
