@@ -52,11 +52,13 @@ List of Data Warehouse KPIs:
 
 This project's Dimensional Model consists of two (2) Facts and five (5) Dimensions
  
-This project’s Dimensional model:
+###This project’s Dimensional model:
+
 ![Alt text](https://github.com/wchow4/nyc_business_dev_data_warehouse/blob/main/CIS%209440%20-%20Milestone%202%20-%20Dimensional%20Model_20221013%20v3.0.JPG)
 
 
-This project's Kimball Bus Matrix:
+###This project's Kimball Bus Matrix:
+
 ![Alt text](https://github.com/wchow4/nyc_business_dev_data_warehouse/blob/main/CIS%209440%20-%20Kimball%20BUS%20Matrix%20Template%20-%20Chow%26Yu_20221013%20v2.0.JPG)
 
 
@@ -72,13 +74,15 @@ List of Visualizations for each KPI:
 BI Application Wireframe design:
 
 
-This project's wireframe designs:
+###This project's wireframe designs:
+
 ![Alt text](https://github.com/wchow4/nyc_business_dev_data_warehouse/blob/main/CIS9440_Fall22_Wireframe_Dashboard_2.JPG)
 
 ![Alt text](https://github.com/wchow4/nyc_business_dev_data_warehouse/blob/main/CIS9440_Fall22_Wireframe_Dashboard_2.JPG)
  
 
-This project's final dashboard:
+###This project's final dashboard:
+
 ![Alt text](https://github.com/wchow4/nyc_business_dev_data_warehouse/blob/main/CIS9440_Fall22_Dashboard_1_Screenshot.JPG)
 
 ![Alt text](https://github.com/wchow4/nyc_business_dev_data_warehouse/blob/main/CIS9440_Fall22_Dashboard_2_Screenshot.JPG)
